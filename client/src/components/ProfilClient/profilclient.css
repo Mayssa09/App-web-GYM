@@ -1,0 +1,27 @@
+.photo_gym{
+    width : 100%
+}
+
+.img_gym{
+    width: 58%;
+    position: relative;
+    right: 225px;
+    border-radius: 26px;
+
+}
+.avatar{
+
+    width: 562px;
+    border-radius: 50%;
+    position: relative;
+    top: 241px;
+    left: 487px;
+
+}
+.client_info{
+    width: 200px;
+    position: relative;
+    top: -115px;
+    left: 1088px;
+    color: black;
+}

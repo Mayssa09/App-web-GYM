@@ -1,0 +1,26 @@
+.remontez {
+    font-size: 38px;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #3BCEAC;
+
+}
+
+.footer-des{
+    font-family: 'Roboto Condensed',sans-serif;
+    font-size: 35px;
+    margin-right: 65px;
+    color: #3BCEAC;
+
+}
+
+.link{
+    text-decoration: none;
+
+}
+.footer {
+    position: relative;
+    text-align: center;
+    background-color: gray;
+    top: 1033px;
+}

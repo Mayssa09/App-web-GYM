@@ -1,0 +1,10 @@
+.clients{
+    width: 84%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 6%;
+    flex: wrap;
+    flex-wrap: wrap;
+    margin-left: 10%;
+  
+}

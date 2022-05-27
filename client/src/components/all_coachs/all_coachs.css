@@ -1,0 +1,6 @@
+.all_coach{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 6%;
+}

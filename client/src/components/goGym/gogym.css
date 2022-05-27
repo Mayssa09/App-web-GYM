@@ -1,0 +1,28 @@
+.com-gym{
+  background-color: gray;
+  position: relative;
+  width: 93%;
+  border-radius: 78px;
+  margin-left: 80px;
+
+}
+.gogym-img{
+  width: 723px;
+  position: relative;
+  left: auto;
+  top: 192px;
+  left: 326px;
+  left: 266px;
+    transform: skew(.1rad);    /* transform: skew(15deg, 15deg); */
+}
+.description-gogym{
+  width: 815px;
+  position: relative;
+  left: 1316px;
+  bottom: 250px;
+  font-size: xx-large;
+  font-family: 'Anek Odia', sans-serif;
+  text-align: initial;
+  color: white;
+  top: -192px
+}

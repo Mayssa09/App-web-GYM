@@ -1,0 +1,9 @@
+.editbtn{
+    border-radius: 17px;
+    background-color: rgb(221, 218, 218);
+    font-size: larger;
+    font-weight: 700;
+    color: #EE4266;
+    width: 109%;
+    border:none;
+}

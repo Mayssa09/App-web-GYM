@@ -1,0 +1,56 @@
+.planning{
+    position: relative;
+    width: 25%;
+    left: 490px;
+    top: 0px;
+    background-color: #EE4266;
+    /* padding: 60px; */
+    transform: skew(.1rad);
+    border-radius: 10px;
+}
+.planning-title{
+    color: #FFD23F;
+    font-family: sans-serif;
+    font-size: xxx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.days {
+    color: #FFD23F;
+}
+.days_go{
+    width: 100%;
+    background-color: #EE4266;
+    text-align: center;
+    height: 74px;
+    padding-top: 7px;
+    color: #FFD23F;
+}
+.days_go_o{
+    width: 100%;
+    background-color: #EE4266;
+    text-align: center;
+    height: 43px;
+    padding-top: 7px;
+    color: #FFD23F;
+}
+.span-d{
+    font-weight: bolder;
+    font-size: larger;
+}
+.img_plan{
+    display: flex;
+    justify-content: space-around;
+    background-image: url("https://d1csarkz8obe9u.cloudfront.net/posterpreviews/motivation-quotes-sport-fitness-woman-power-design-template-d75d3ff59e7629168b3ba036e55b927c_screen.jpg?ts=1611411372");
+    background-repeat: repeat-y;
+    background-size: auto;
+    position: relative;
+    width: 2111px;
+    left: 421px;
+    top: 196px;
+    transform: skew(.1rad);
+}
+
+.img_F{    position: relative;
+  
+    width: 20%;}
